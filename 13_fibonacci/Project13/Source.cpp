@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int fib(int N)
+int fib (int N)
 {
 if(N==0)
 return 0;
