@@ -34,3 +34,9 @@
 *.sdf
 *.sln
 *.suo
+*.vcxproj
+*.tlog
+*.ilk
+*.pdb
+*.lastbuildstate
+*.idb
