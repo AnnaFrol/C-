@@ -1,0 +1,19 @@
+﻿Build started 27.12.2021 0:21:04.
+     1>Project "C:\Project\C-\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\project\c-\consoleapplication1\source.cpp(24): error C2065: 'storana2' : undeclared identifier
+     1>c:\project\c-\consoleapplication1\source.cpp(43): error C2146: syntax error : missing ')' before identifier 'and'
+     1>c:\project\c-\consoleapplication1\source.cpp(43): error C2059: syntax error : ')'
+     1>c:\project\c-\consoleapplication1\source.cpp(44): error C2143: syntax error : missing ';' before '{'
+     1>c:\project\c-\consoleapplication1\source.cpp(43): error C3861: 'and': identifier not found
+     1>c:\project\c-\consoleapplication1\source.cpp(47): error C2146: syntax error : missing ')' before identifier 'and'
+     1>c:\project\c-\consoleapplication1\source.cpp(47): error C2059: syntax error : ')'
+     1>c:\project\c-\consoleapplication1\source.cpp(48): error C2143: syntax error : missing ';' before '{'
+     1>c:\project\c-\consoleapplication1\source.cpp(47): error C3861: 'and': identifier not found
+     1>Done Building Project "C:\Project\C-\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.08
