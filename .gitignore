@@ -40,3 +40,11 @@
 *.pdb
 *.lastbuildstate
 *.idb
+*.suo
+*.sln
+*.sdf
+*.vcxproj
+*.vcxproj.filters
+*.exe
+*.ilk
+*.pdb
